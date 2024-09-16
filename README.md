@@ -10,3 +10,5 @@ Firmware for Thailand Dragino LPS8N-AS923-TH
 03 Firmware_ Thai-5.4.1713921192 25April67              APRIL 2567
 
 04 Firmware_ Thai-5.4.1715069955 7 May67                MAY  2567
+
+Latest Manual is LPS8N 18_05_2024.pdf
