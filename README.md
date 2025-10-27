@@ -13,4 +13,10 @@ Firmware for Thailand Dragino LPS8N-AS923-TH
 
 Latest Manual is Manual_LPS8N 18_05_2024.pdf
 
-QUICK START ภาษาไทยล่าสุดคือ คู่มือ Quickstart Dragino LPS8N 07.pdf  6 ต.ค.68
+QUICK START  คู่มือ Quickstart Dragino LPS8N 07.pdf 6 ต.ค.68 ฺ
+
+Basic Station แต่ Gateway Traffic ไม่แสดง
+
+QUICK START ภาษาไทยล่าสุดคือ คู่มือ Quickstart Dragino LPS8N 06.pdf  27 ตค.68
+
+
