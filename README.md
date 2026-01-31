@@ -11,6 +11,12 @@ Firmware for Thailand Dragino LPS8N-AS923-TH
 
 04 Firmware_ Thai-5.4.1715069955 7 May67                MAY  2567
 
+Version ต่ำกว่า 4 ห้ามใช้กับเครื่องใหม่ที่จำหน่ายปี 2569 เป็นต้นไป
+
+05 dragino-Thai--v5.4.1768976529-squashfs-sysupgrade    31Jan69
+
+Version 5 ใช้กับเครื่องใหม่ที่จำหน่ายปี 2569 เป็นต้นไป
+
 Latest Manual is Manual_LPS8N 18_05_2024.pdf
 
 QUICK START  คู่มือ Quickstart Dragino LPS8N 07.pdf 6 ต.ค.68 ฺ
